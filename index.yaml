@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mystrom-exporter:
+  - apiVersion: v2
+    appVersion: 1.2.0-arm64
+    created: "2021-10-31T22:39:11.469057+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 8d7398ad31677062d4d0d445a2dfd2311eba45ac0a88269e3beb9bf1be11645a
+    name: mystrom-exporter
+    type: application
+    urls:
+    - https://robachmann.github.io/mystrom-exporter-helm/mystrom-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-31T22:39:11.438185+01:00"
